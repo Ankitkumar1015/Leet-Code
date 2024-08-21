@@ -21,6 +21,7 @@ this contains all the leet problem i have solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 ## Prefix Sum
 |  |
@@ -34,4 +35,8 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
