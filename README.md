@@ -15,10 +15,12 @@ this contains all the leet problem i have solved
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@ this contains all the leet problem i have solved
 ## String
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
 ## Hash Table
 |  |
