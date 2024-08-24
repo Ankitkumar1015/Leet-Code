@@ -7,6 +7,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -23,6 +25,7 @@ this contains all the leet problem i have solved
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
