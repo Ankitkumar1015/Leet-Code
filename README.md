@@ -17,12 +17,14 @@ this contains all the leet problem i have solved
 | [1603-running-sum-of-1d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
