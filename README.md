@@ -8,6 +8,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
+| [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -23,6 +24,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -67,6 +69,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
+| [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
