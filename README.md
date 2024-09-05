@@ -22,6 +22,7 @@ this contains all the leet problem i have solved
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@ this contains all the leet problem i have solved
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +42,7 @@ this contains all the leet problem i have solved
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [2155-find-missing-observations](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
