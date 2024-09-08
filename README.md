@@ -145,6 +145,7 @@ this contains all the leet problem i have solved
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Breadth-First Search
