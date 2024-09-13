@@ -14,6 +14,7 @@ this contains all the leet problem i have solved
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1580-shuffle-the-array) |
@@ -59,6 +60,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
@@ -103,6 +105,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
