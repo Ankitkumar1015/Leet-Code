@@ -9,6 +9,7 @@ this contains all the leet problem i have solved
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
+| [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
@@ -45,6 +46,7 @@ this contains all the leet problem i have solved
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
@@ -79,6 +81,7 @@ this contains all the leet problem i have solved
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
@@ -99,6 +102,7 @@ this contains all the leet problem i have solved
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
