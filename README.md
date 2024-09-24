@@ -32,6 +32,7 @@ this contains all the leet problem i have solved
 | [2411-spiral-matrix-iv](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -97,6 +98,7 @@ this contains all the leet problem i have solved
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ this contains all the leet problem i have solved
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -229,4 +232,5 @@ this contains all the leet problem i have solved
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
