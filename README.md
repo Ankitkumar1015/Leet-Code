@@ -15,6 +15,7 @@ this contains all the leet problem i have solved
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -105,6 +106,7 @@ this contains all the leet problem i have solved
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -117,6 +119,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
