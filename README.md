@@ -98,6 +98,7 @@ this contains all the leet problem i have solved
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -147,6 +148,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -216,6 +218,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
