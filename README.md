@@ -14,6 +14,7 @@ this contains all the leet problem i have solved
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1325-path-with-maximum-probability) |
@@ -149,6 +150,7 @@ this contains all the leet problem i have solved
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1002-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
@@ -249,4 +251,8 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
