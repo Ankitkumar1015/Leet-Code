@@ -7,6 +7,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
@@ -198,6 +199,7 @@ this contains all the leet problem i have solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
