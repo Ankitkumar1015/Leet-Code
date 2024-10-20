@@ -28,6 +28,7 @@ this contains all the leet problem i have solved
 | [1580-shuffle-the-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
@@ -92,6 +93,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2411-spiral-matrix-iv) |
