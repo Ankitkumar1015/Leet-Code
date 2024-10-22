@@ -15,6 +15,7 @@ this contains all the leet problem i have solved
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
@@ -47,6 +48,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
@@ -93,6 +95,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
