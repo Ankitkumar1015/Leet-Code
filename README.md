@@ -25,6 +25,7 @@ this contains all the leet problem i have solved
 | [1325-path-with-maximum-probability](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
@@ -81,6 +82,7 @@ this contains all the leet problem i have solved
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
@@ -101,6 +103,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0898-transpose-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
