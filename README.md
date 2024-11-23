@@ -26,6 +26,7 @@ this contains all the leet problem i have solved
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
@@ -71,6 +72,7 @@ this contains all the leet problem i have solved
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
