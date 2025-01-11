@@ -294,6 +294,7 @@ this contains all the leet problem i have solved
 | [1153-product-sales-analysis-i](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1153-product-sales-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1801-average-time-of-process-per-machine) |
