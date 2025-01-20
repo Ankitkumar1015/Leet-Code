@@ -4,7 +4,5 @@ class Solution:
         a= str(x)
         rev = a[::-1]
 
-        if rev==a:
-            return True
-        
-        return False
+        return rev==a
+            
