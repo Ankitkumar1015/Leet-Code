@@ -6,5 +6,5 @@ class Solution:
 
         if rev==a:
             return True
-        else :
-            return False
+        
+        return False
