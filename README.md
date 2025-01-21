@@ -74,6 +74,7 @@ this contains all the leet problem i have solved
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1240-stone-game-ii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2155-find-missing-observations) |
