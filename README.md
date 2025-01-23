@@ -11,6 +11,7 @@ this contains all the leet problem i have solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -70,6 +71,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
@@ -243,6 +245,7 @@ this contains all the leet problem i have solved
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -310,4 +313,8 @@ this contains all the leet problem i have solved
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
