@@ -1,5 +1,5 @@
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
+    def isPalindrome(self, s):
         i, j = 0, len(s) - 1
         while i < j:
             if not s[i].isalnum():
