@@ -53,6 +53,7 @@ this contains all the leet problem i have solved
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0898-transpose-matrix) |
@@ -71,6 +72,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -122,6 +124,7 @@ this contains all the leet problem i have solved
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0214-shortest-palindrome) |
@@ -170,6 +173,7 @@ this contains all the leet problem i have solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
