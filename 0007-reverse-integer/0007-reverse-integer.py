@@ -1,5 +1,9 @@
-class Solution:
-    def reverse(self, x: int) -> int:
+class Solution(object):
+    def reverse(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
         INT_MAX = 2**31 - 1  # Maximum 32-bit signed integer
         INT_MIN = -2**31     # Minimum 32-bit signed integer
 
@@ -19,4 +23,5 @@ class Solution:
 
         return sign * result
 
+        
         
