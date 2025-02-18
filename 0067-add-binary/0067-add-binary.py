@@ -1,5 +1,5 @@
 class Solution:
-  def addBinary(self, a: str, b: str) -> str:
+  def addBinary(self, a, b):
     ans = []
     carry = 0
     i = len(a) - 1
