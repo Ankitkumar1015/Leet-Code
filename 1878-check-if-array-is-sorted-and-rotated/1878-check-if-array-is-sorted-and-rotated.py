@@ -1,7 +1,7 @@
-from typing import List
 
 class Solution:
     def check(self, nums: List[int]) -> bool:
+        from typing import List
         # Initialize count to track the number of times the
         # current number is less than the previous number in the list
         decrease_count = 0
@@ -16,4 +16,4 @@ class Solution:
                 decrease_count += 1
       
         # The array is considered sorted and rotated at most once if there's zero or one decrease
-        return decrease_count <= 1        
+        return decrease_count <= 1     
