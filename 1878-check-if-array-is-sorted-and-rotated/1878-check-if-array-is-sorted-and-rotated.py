@@ -1,19 +1,21 @@
+class Solution(object):
+    def check(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        
+        count = 0
+        n = len(nums)
+    
+        for i in range(n - 1):
+            if nums[i] > nums[i + 1]:  # Check for decrease
+                count += 1
+    
+        if nums[n - 1] > nums[0]:  # Check last element with first
+            count += 1
+    
+        return count <= 1  # At most one drop allowed
 
-class Solution:
-    def check(self, nums: List[int]) -> bool:
-        from typing import List
-        # Initialize count to track the number of times the
-        # current number is less than the previous number in the list
-        decrease_count = 0
-      
-        # Iterate over the list of numbers along with the index
-        for i, value in enumerate(nums):
-            # If the current value is less than the previous value (circularly),
-            # we increment the decrease_count.
-            # nums[i - 1] accesses the previous element since Python supports
-            # negative indexing, for the first element it will compare with the last element
-            if nums[i - 1] > value:
-                decrease_count += 1
-      
-        # The array is considered sorted and rotated at most once if there's zero or one decrease
-        return decrease_count <= 1     
+    
+        
