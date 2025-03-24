@@ -39,6 +39,7 @@ this contains all the leet problem i have solved
 | [1694-make-sum-divisible-by-p](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
