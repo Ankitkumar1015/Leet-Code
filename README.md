@@ -7,6 +7,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
@@ -297,6 +298,7 @@ this contains all the leet problem i have solved
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
