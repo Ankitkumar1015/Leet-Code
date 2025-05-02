@@ -11,6 +11,7 @@ this contains all the leet problem i have solved
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
@@ -75,6 +76,7 @@ this contains all the leet problem i have solved
 | [0007-reverse-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -300,6 +302,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Monotonic Stack
