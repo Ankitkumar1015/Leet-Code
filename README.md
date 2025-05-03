@@ -14,6 +14,7 @@ this contains all the leet problem i have solved
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -303,6 +304,7 @@ this contains all the leet problem i have solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Monotonic Stack
