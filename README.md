@@ -14,6 +14,7 @@ this contains all the leet problem i have solved
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -80,6 +81,7 @@ this contains all the leet problem i have solved
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
@@ -149,6 +151,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -165,6 +168,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -179,6 +183,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -237,6 +242,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0792-binary-search) |
