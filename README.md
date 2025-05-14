@@ -75,6 +75,7 @@ this contains all the leet problem i have solved
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
@@ -251,6 +252,7 @@ this contains all the leet problem i have solved
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2411-spiral-matrix-iv) |
@@ -278,6 +280,7 @@ this contains all the leet problem i have solved
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
