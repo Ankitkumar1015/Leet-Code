@@ -17,6 +17,7 @@ this contains all the leet problem i have solved
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0792-binary-search) |
