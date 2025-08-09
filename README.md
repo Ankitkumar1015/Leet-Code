@@ -81,6 +81,7 @@ this contains all the leet problem i have solved
 | [0007-reverse-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
