@@ -82,6 +82,7 @@ this contains all the leet problem i have solved
 | [0002-add-two-numbers](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
@@ -291,6 +292,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1013-fibonacci-number) |
