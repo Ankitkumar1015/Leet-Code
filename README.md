@@ -86,6 +86,7 @@ this contains all the leet problem i have solved
 | [0172-factorial-trailing-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -192,6 +193,7 @@ this contains all the leet problem i have solved
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0861-flipping-an-image) |
@@ -289,6 +291,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
