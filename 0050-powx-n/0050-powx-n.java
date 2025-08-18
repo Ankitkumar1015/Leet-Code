@@ -6,9 +6,6 @@ class Solution {
         else{
             return 1/power(x,-(long)n);
         }
-        
-        
-        
     }
     public double  power(double x , long n ){
         double ans = 1 ;
