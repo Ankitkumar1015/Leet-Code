@@ -14,6 +14,7 @@ this contains all the leet problem i have solved
 | [0088-merge-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0198-house-robber) |
@@ -160,6 +161,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -178,6 +180,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0075-sort-colors](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -187,6 +190,7 @@ this contains all the leet problem i have solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -365,4 +369,8 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0204-count-primes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
