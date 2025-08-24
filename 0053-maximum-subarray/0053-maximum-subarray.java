@@ -1,16 +1,21 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int currentSum = nums[0];  // running sum of subarray
-        int maxSum = nums[0];      // best (maximum) sum seen so far
+        int n = nums.length;
+        int sum = 0;
+        int max = Integer.MIN_VALUE;  // to handle negative numbers also
 
-        for (int i = 1; i < nums.length; i++) {
-            // Either extend the current subarray OR start new subarray at nums[i]
-            currentSum = Math.max(nums[i], currentSum + nums[i]);
+        for (int i = 0; i < n; i++) {
+            sum = sum + nums[i];
 
-            // Update maxSum if currentSum is better
-            maxSum = Math.max(maxSum, currentSum);
+            if (sum > max) {
+                max = sum;
+            }
+
+            if (sum < 0) {
+                sum = 0;
+            }
         }
 
-        return maxSum;
+        return max;
     }
 }
