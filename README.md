@@ -156,6 +156,7 @@ this contains all the leet problem i have solved
 | [0564-find-the-closest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
+| [0742-to-lower-case](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
