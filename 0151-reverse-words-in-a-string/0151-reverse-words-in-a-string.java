@@ -1,16 +1,24 @@
 class Solution {
     public String reverseWords(String s) {
-        // Step 1: trim leading/trailing spaces
-        s = s.trim();
-
-        // Step 2: split by one or more spaces (regex: "\\s+")
-        String[] words = s.split("\\s+");
-
-        // Step 3: reverse and join
         StringBuilder ans = new StringBuilder();
-        for (int i = words.length - 1; i >= 0; i--) {
-            ans.append(words[i]);
-            if (i > 0) ans.append(" "); // avoid trailing space
+        int n = s.length();
+        int m = n - 1;
+
+        for (int i = n - 1; i >= 0; i--) {
+            if (s.charAt(i) == ' ' ) {
+              if( m>i){
+                    for (int j = i + 1; j <= m; j++) {
+                    ans.append(s.charAt(j));
+                }
+                ans.append(" ");
+              }
+                m = i - 1; // update word boundary
+            }
+        }
+
+        // Add the very first word
+        for (int j = 0; j <= m; j++) {
+            ans.append(s.charAt(j));
         }
 
         return ans.toString().trim();
