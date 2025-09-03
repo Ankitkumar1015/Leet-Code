@@ -1,18 +1,25 @@
 class Solution {
     public String reverseWords(String s) {
-        // Step 1: trim leading/trailing spaces
-        s = s.trim();
-
-        // Step 2: split by one or more spaces (regex: "\\s+")
-        String[] words = s.split("\\s+");
-
-        // Step 3: reverse and join
         StringBuilder ans = new StringBuilder();
-        for (int i = words.length - 1; i >= 0; i--) {
-            ans.append(words[i]);
-            if (i > 0) ans.append(" "); // avoid trailing space
+        int n = s.length();
+        int i = n - 1;
+
+        while (i >= 0) {
+            // skip spaces
+            while (i >= 0 && s.charAt(i) == ' ') i--;
+
+            if (i < 0) break;
+
+            int j = i;
+            // find start of the word
+            while (i >= 0 && s.charAt(i) != ' ') i--;
+
+            // append word
+            ans.append(s.substring(i + 1, j + 1));
+            ans.append(" ");
         }
 
-        return ans.toString();
+        // remove trailing space
+        return ans.toString().trim();
     }
 }
