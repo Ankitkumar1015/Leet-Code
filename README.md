@@ -150,6 +150,7 @@ this contains all the leet problem i have solved
 | ------- |
 | [0067-add-binary](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -346,6 +347,7 @@ this contains all the leet problem i have solved
 | [0075-sort-colors](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0443-string-compression) |
