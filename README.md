@@ -105,6 +105,7 @@ this contains all the leet problem i have solved
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -167,6 +168,7 @@ this contains all the leet problem i have solved
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -308,6 +310,7 @@ this contains all the leet problem i have solved
 | [0179-largest-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
