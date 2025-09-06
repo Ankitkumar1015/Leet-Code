@@ -164,6 +164,7 @@ this contains all the leet problem i have solved
 | [0647-palindromic-substrings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0664-strange-printer) |
 | [0742-to-lower-case](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -334,6 +335,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
