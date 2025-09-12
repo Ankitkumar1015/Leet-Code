@@ -157,6 +157,7 @@ this contains all the leet problem i have solved
 | [0214-shortest-palindrome](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -183,6 +184,7 @@ this contains all the leet problem i have solved
 | [0205-isomorphic-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -212,6 +214,7 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -403,4 +406,8 @@ this contains all the leet problem i have solved
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
