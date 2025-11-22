@@ -41,6 +41,7 @@ this contains all the leet problem i have solved
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1470-shuffle-the-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
