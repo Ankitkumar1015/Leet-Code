@@ -52,6 +52,7 @@ this contains all the leet problem i have solved
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -74,6 +75,7 @@ this contains all the leet problem i have solved
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1505-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2058-concatenation-of-array) |
