@@ -24,6 +24,7 @@ this contains all the leet problem i have solved
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0645-set-mismatch) |
@@ -190,6 +191,7 @@ this contains all the leet problem i have solved
 | [0242-valid-anagram](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0645-set-mismatch) |
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
