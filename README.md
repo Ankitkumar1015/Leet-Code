@@ -38,6 +38,7 @@ this contains all the leet problem i have solved
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -193,6 +194,7 @@ this contains all the leet problem i have solved
 | [0906-walking-robot-simulation](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -214,6 +216,7 @@ this contains all the leet problem i have solved
 | [0539-minimum-time-difference](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ankitkumar1015/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
@@ -417,4 +420,8 @@ this contains all the leet problem i have solved
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitkumar1015/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankitkumar1015/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
